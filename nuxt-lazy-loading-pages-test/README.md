@@ -1,0 +1,1 @@
+Deployed at: https://nuxt-lazy-loading-pages-test.pages.dev/
