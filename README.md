@@ -1,0 +1,1 @@
+# nuxt-lazy-loading-test
