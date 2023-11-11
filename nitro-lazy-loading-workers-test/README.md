@@ -1,0 +1,1 @@
+Deployed at: https://nitro-lazy-loading-workers-test.dario-piotrowicz.workers.dev/
