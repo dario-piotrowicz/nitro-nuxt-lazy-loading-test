@@ -1,0 +1,1 @@
+Deployed at: https://nuxt-lazy-loading-workers-test.dario-piotrowicz.workers.dev/
