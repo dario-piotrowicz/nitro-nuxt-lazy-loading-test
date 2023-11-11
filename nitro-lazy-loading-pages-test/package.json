@@ -1,0 +1,14 @@
+{
+  "private": true,
+  "scripts": {
+    "prepare": "nitropack prepare",
+    "dev": "nitropack dev",
+    "build": "NITRO_EXP_CLOUDFLARE_DYNAMIC_IMPORTS=_ NITRO_PRESET=cloudflare-pages nitropack build",
+    "preview": "node .output/server/index.mjs",
+    "pages:dev": "npx wrangler pages dev dist/",
+    "pages:deploy": "npx wrangler pages deploy dist/"
+  },
+  "dependencies": {
+    "nitropack": "latest"
+  }
+}
